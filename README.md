@@ -25,11 +25,8 @@ Pong is a classic arcade game that simulates table tennis. It involves two paddl
    ```
 3. Run the game (instructions will vary depending on the setup).
 
-## Usage
-- Start the game by running `game_start_command` (replace with the actual command).
-
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the CC0 License.
 
 ## Contact
 For questions or feedback, please reach out to BewilderedDuck.
