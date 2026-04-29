@@ -15,15 +15,8 @@ Pong is a classic arcade game that simulates table tennis. It involves two paddl
 - Adjustable difficulty levels
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/BewilderedDuck/Pong.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd Pong
-   ```
-3. Run the game (instructions will vary depending on the setup).
+1. Download the code
+2. Run it in your browser
 
 ## License
 This project is licensed under the CC0 License.
