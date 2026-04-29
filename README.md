@@ -4,7 +4,7 @@
 Pong is a classic arcade game that simulates table tennis. It involves two paddles and a ball, where the objective is to score points by getting the ball past your opponent's paddle.
 
 ## How to Play
-- Use the up and down arrow keys to control your paddle.
+- Use the mouse to control your paddle.
 - The game starts with the ball moving towards one of the paddles.
 - Players take turns to hit the ball with their paddles.
 - A point is scored when the opponent fails to return the ball.
